@@ -1,8 +1,8 @@
-PWD /Users/dk/dev/proj/research policy/openalex-leiden/two-cultures
+PWD /Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/dk/dev/proj/research policy/openalex-leiden/two-cultures/main.tex
+INPUT /Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/main.tex
 OUTPUT main.log
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/revtex/revtex4-2.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/revtex/revtex4-2.cls

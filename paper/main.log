@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.23)  13 JUL 2024 09:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.23)  14 JUL 2024 16:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/dk/dev/proj/research policy/openalex-leiden/two-cultures/main.tex"
-(/Users/dk/dev/proj/research policy/openalex-leiden/two-cultures/main.tex
+**/Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/main.tex
+(/Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/main.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/revtex/revtex4-2.cls
 Document Class: revtex4-2 2020/10/03 4.2e (https://journals.aps.org/revtex/ for documentation)
@@ -605,14 +605,14 @@ File: pgfmoduleparser.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
 \@curXheight=\skip62
 )
-Class revtex4-2 Info: Unrecognized LaTeX tabular. Please update this document class! (Proceeding with fingers crossed.) on input line 30.
+Class revtex4-2 Info: Unrecognized LaTeX tabular. Please update this document class! (Proceeding with fingers crossed.) on input line 31.
 
 
 Class revtex4-2 Warning: Repair the float package.
 
-Class revtex4-2 Info: cite was not loaded (OK!) on input line 30.
-Class revtex4-2 Info: mcite was not loaded (OK!) on input line 30.
-Class revtex4-2 Info: multicol was not loaded (OK!) on input line 30.
+Class revtex4-2 Info: cite was not loaded (OK!) on input line 31.
+Class revtex4-2 Info: mcite was not loaded (OK!) on input line 31.
+Class revtex4-2 Info: multicol was not loaded (OK!) on input line 31.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -626,24 +626,24 @@ LaTeX Warning: Label `fig:fig3' multiply defined.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
  (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count330
@@ -663,7 +663,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 30.
+Package hyperref Info: Link coloring OFF on input line 31.
  (./main.out) (./main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
@@ -671,7 +671,7 @@ Package hyperref Info: Link coloring OFF on input line 30.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
-Class revtex4-2 Info: Taking \maketitle back from hyperref on input line 30.
+Class revtex4-2 Info: Taking \maketitle back from hyperref on input line 31.
 \openout3 = `mainNotes.bib'.
 
 LaTeX Font Info:    Trying to load font information for U+msa on input line 61.
@@ -687,68 +687,68 @@ File: uni-1.def 2022/08/07 UCS: Unicode data U+0100..U+01FF
 <Fig01.png, id=67, 1077.02374pt x 534.99875pt>
 File: Fig01.png Graphic file (type png)
 <use Fig01.png>
-Package pdftex.def Info: Fig01.png  used on input line 92.
+Package pdftex.def Info: Fig01.png  used on input line 96.
 (pdftex.def)             Requested size: 246.0pt x 122.19812pt.
 <Fig02.png, id=69, 1078.0275pt x 527.9725pt>
 File: Fig02.png Graphic file (type png)
 <use Fig02.png>
-Package pdftex.def Info: Fig02.png  used on input line 101.
+Package pdftex.def Info: Fig02.png  used on input line 105.
 (pdftex.def)             Requested size: 246.0pt x 120.48048pt.
 <Fig01a.png, id=70, 610.28pt x 214.8025pt>
 File: Fig01a.png Graphic file (type png)
 <use Fig01a.png>
-Package pdftex.def Info: Fig01a.png  used on input line 110.
+Package pdftex.def Info: Fig01a.png  used on input line 114.
 (pdftex.def)             Requested size: 246.0pt x 86.58482pt.
-<Fig03.png, id=71, 724.7075pt x 255.95625pt>
-File: Fig03.png Graphic file (type png)
-<use Fig03.png>
-Package pdftex.def Info: Fig03.png  used on input line 122.
-(pdftex.def)             Requested size: 246.0pt x 86.88336pt.
  [2
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.128 
+l.123 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.128 
+l.123 
        <./Fig01.png> <./Fig02.png>]
 
-LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 128.
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 123.
 
+<Fig03.png, id=86, 724.7075pt x 255.95625pt>
+File: Fig03.png Graphic file (type png)
+<use Fig03.png>
+Package pdftex.def Info: Fig03.png  used on input line 126.
+(pdftex.def)             Requested size: 246.0pt x 86.88336pt.
 <Fig04.png, id=87, 728.7225pt x 500.87125pt>
 File: Fig04.png Graphic file (type png)
 <use Fig04.png>
-Package pdftex.def Info: Fig04.png  used on input line 131.
+Package pdftex.def Info: Fig04.png  used on input line 135.
 (pdftex.def)             Requested size: 246.0pt x 169.07878pt.
 <Fig05.png, id=88, 505.89pt x 511.9125pt>
 File: Fig05.png Graphic file (type png)
 <use Fig05.png>
-Package pdftex.def Info: Fig05.png  used on input line 140.
+Package pdftex.def Info: Fig05.png  used on input line 144.
 (pdftex.def)             Requested size: 147.6015pt x 149.35692pt.
 [3
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.161 
-      
+l.156  L
+        et's illustrate this with a simple example. Consider the following f...
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.161 
-      
+l.156  L
+        et's illustrate this with a simple example. Consider the following f...
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.161 
-      
+l.156  L
+        et's illustrate this with a simple example. Consider the following f...
 pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.161 
-       <./Fig01a.png> <./Fig03.png> <./Fig04.png> <./Fig05.png>] [4] (./main.bbl
+l.156  L
+        et's illustrate this with a simple example. Consider the following f... <./Fig01a.png> <./Fig03.png> <./Fig04.png> <./Fig05.png>] [4] (./main.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 54--55
  []\OT1/cmr/m/n/9 R. Wat-son, D. Koro^^Tsak,  and G. []Stiglic,
  []
@@ -782,9 +782,9 @@ Here is how much of TeX's memory you used:
  45415 multiletter control sequences out of 15000+600000
  518821 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,11n,103p,2297b,748s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,11n,103p,2295b,748s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on main.pdf (5 pages, 1926793 bytes).
+Output written on main.pdf (5 pages, 1927010 bytes).
 PDF statistics:
  201 PDF objects out of 1000 (max. 8388607)
  149 compressed objects within 2 object streams
