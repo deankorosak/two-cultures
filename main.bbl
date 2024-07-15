@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{11}%
+\begin{thebibliography}{15}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -76,6 +76,18 @@
 \bibitem [{\citenamefont {{Research Organization Registry}}()}]{ROR}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibnamefont {{Research Organization Registry}}},\ }\href@noop {} {\enquote {\bibinfo {title} {{Research Organization Registry (ROR)}},}\ }\bibinfo {howpublished} {\url{https://ror.org/}},\ \bibinfo {note} {accessed: 2024-06-11}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {{Wiley}}()}]{wiley}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {{Wiley}}},\ }\href@noop {} {\enquote {\bibinfo {title} {{Article Publication Charges (APCs)}},}\ }\bibinfo {howpublished} {\url{https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/article-publication-charges/index.html}},\ \bibinfo {note} {accessed: 2024-07-15}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Fillon}\ \emph {et~al.}(2024)\citenamefont {Fillon}, \citenamefont {Maniadis}, \citenamefont {Mendez},\ and\ \citenamefont {Sanchez-Nuneez}}]{fillon2024should}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Fillon}}, \bibinfo {author} {\bibfnamefont {Z.}~\bibnamefont {Maniadis}}, \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont {Mendez}}, \ and\ \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont {Sanchez-Nuneez}},\ }\href {\doibase 10.12688/openreseurope.17694.1} {\bibfield  {journal} {\bibinfo  {journal} {Open Res Europe}\ }\textbf {\bibinfo {volume} {4:127}} (\bibinfo {year} {2024}),\ 10.12688/openreseurope.17694.1}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {{MDPI}}(2024)}]{mdpi_apc}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {{MDPI}}},\ }\href {https://www.mdpi.com/apc} {\enquote {\bibinfo {title} {Article processing charges (apc) information},}\ } (\bibinfo {year} {2024}),\ \bibinfo {note} {accessed: 2024-07-15}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {{Nature Publishing Group}}(2024)}]{nature_publishing_options}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {{Nature Publishing Group}}},\ }\href {https://www.nature.com/nature/for-authors/publishing-options} {\enquote {\bibinfo {title} {Publishing options},}\ } (\bibinfo {year} {2024}),\ \bibinfo {note} {accessed: 2024-07-15}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Mobilia}(2010)}]{mobilia2010oscillatory}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Mobilia}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Journal of Theoretical Biology}\ }\textbf {\bibinfo {volume} {264}},\ \bibinfo {pages} {1} (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
