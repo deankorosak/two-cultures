@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{15}%
+\begin{thebibliography}{17}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -94,4 +94,10 @@
 \bibitem [{\citenamefont {Mittal}\ \emph {et~al.}(2020)\citenamefont {Mittal}, \citenamefont {Mukhopadhyay},\ and\ \citenamefont {Chakraborty}}]{mittal2020evolutionary}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Mittal}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Mukhopadhyay}}, \ and\ \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Chakraborty}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Physical Review E}\ }\textbf {\bibinfo {volume} {101}},\ \bibinfo {pages} {042410} (\bibinfo {year} {2020})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Klebel}\ and\ \citenamefont {Ross-Hellauer}(2022)}]{kbel_ross-hellauer_2022}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Klebel}}\ and\ \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Ross-Hellauer}},\ }\href {\doibase 10.5281/zenodo.7014802} {\enquote {\bibinfo {title} {{Data for The APC-Barrier and its effect on stratification in open access publishing}},}\ }\bibinfo {howpublished} {\url{https://doi.org/10.5281/zenodo.7014802}} (\bibinfo {year} {2022})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {{World Bank}}(2024)}]{worldbank_gdp_per_capita_ppp}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {{World Bank}}},\ }\href@noop {} {\enquote {\bibinfo {title} {Gdp per capita, ppp (current international dollars)},}\ }\bibinfo {howpublished} {\url{https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?name_desc=false}} (\bibinfo {year} {2024}),\ \bibinfo {note} {accessed: 2024-07-16}\BibitemShut {NoStop}%
 \end{thebibliography}%
