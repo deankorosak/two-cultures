@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{17}%
+\begin{thebibliography}{16}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -52,9 +52,6 @@
 \bibitem [{\citenamefont {Watson}\ \emph {et~al.}(2023)\citenamefont {Watson}, \citenamefont {Korošak},\ and\ \citenamefont {Štiglic}}]{watson2023assessing}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Watson}}, \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Korošak}}, \ and\ \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {Štiglic}},\ }\href@noop {} {\enquote {\bibinfo {title} {Assessing individual research performance},}\ }\bibinfo {howpublished} {\url{https://www.hepi.ac.uk/2023/05/02/assessing-individual-research-performance/}} (\bibinfo {year} {2023}),\ \bibinfo {note} {hEPI}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Baccini}\ \emph {et~al.}(2019)\citenamefont {Baccini}, \citenamefont {De~Nicolao},\ and\ \citenamefont {Petrovich}}]{baccini2019citation}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Baccini}}, \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {De~Nicolao}}, \ and\ \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont {Petrovich}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {PLoS One}\ }\textbf {\bibinfo {volume} {14}},\ \bibinfo {pages} {e0221212} (\bibinfo {year} {2019})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Saygitov}(2018)}]{saygitov2018impact}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.~T.}\ \bibnamefont {Saygitov}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {BioRxiv}\ ,\ \bibinfo {pages} {354662}} (\bibinfo {year} {2018})}\BibitemShut {NoStop}%
@@ -88,16 +85,16 @@
 \bibitem [{\citenamefont {{Nature Publishing Group}}(2024)}]{nature_publishing_options}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibnamefont {{Nature Publishing Group}}},\ }\href {https://www.nature.com/nature/for-authors/publishing-options} {\enquote {\bibinfo {title} {Publishing options},}\ } (\bibinfo {year} {2024}),\ \bibinfo {note} {accessed: 2024-07-15}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Mobilia}(2010)}]{mobilia2010oscillatory}%
+\bibitem [{\citenamefont {Baccini}\ \emph {et~al.}(2019)\citenamefont {Baccini}, \citenamefont {De~Nicolao},\ and\ \citenamefont {Petrovich}}]{baccini2019citation}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Mobilia}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Journal of Theoretical Biology}\ }\textbf {\bibinfo {volume} {264}},\ \bibinfo {pages} {1} (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Mittal}\ \emph {et~al.}(2020)\citenamefont {Mittal}, \citenamefont {Mukhopadhyay},\ and\ \citenamefont {Chakraborty}}]{mittal2020evolutionary}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Mittal}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Mukhopadhyay}}, \ and\ \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Chakraborty}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Physical Review E}\ }\textbf {\bibinfo {volume} {101}},\ \bibinfo {pages} {042410} (\bibinfo {year} {2020})}\BibitemShut {NoStop}%
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Baccini}}, \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {De~Nicolao}}, \ and\ \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont {Petrovich}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {PLoS One}\ }\textbf {\bibinfo {volume} {14}},\ \bibinfo {pages} {e0221212} (\bibinfo {year} {2019})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Klebel}\ and\ \citenamefont {Ross-Hellauer}(2022)}]{kbel_ross-hellauer_2022}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Klebel}}\ and\ \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Ross-Hellauer}},\ }\href {\doibase 10.5281/zenodo.7014802} {\enquote {\bibinfo {title} {{Data for The APC-Barrier and its effect on stratification in open access publishing}},}\ }\bibinfo {howpublished} {\url{https://doi.org/10.5281/zenodo.7014802}} (\bibinfo {year} {2022})\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {{World Bank}}(2024)}]{worldbank_gdp_per_capita_ppp}%
+\bibitem [{\citenamefont {Butler}\ \emph {et~al.}(2024)\citenamefont {Butler}, \citenamefont {Hare}, \citenamefont {Schönfelder}, \citenamefont {Schares}, \citenamefont {Alperin},\ and\ \citenamefont {Haustein}}]{butler2024}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {{World Bank}}},\ }\href@noop {} {\enquote {\bibinfo {title} {Gdp per capita, ppp (current international dollars)},}\ }\bibinfo {howpublished} {\url{https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?name_desc=false}} (\bibinfo {year} {2024}),\ \bibinfo {note} {accessed: 2024-07-16}\BibitemShut {NoStop}%
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.-A.}\ \bibnamefont {Butler}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Hare}}, \bibinfo {author} {\bibfnamefont {N.}~\bibnamefont {Schönfelder}}, \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont {Schares}}, \bibinfo {author} {\bibfnamefont {J.~P.}\ \bibnamefont {Alperin}}, \ and\ \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Haustein}},\ }\href {\doibase 10.7910/DVN/CR1MMV} {\enquote {\bibinfo {title} {{Open dataset of annual Article Processing Charges (APCs) of gold and hybrid journals published by Elsevier, Frontiers, MDPI, PLOS, Springer-Nature and Wiley 2019-2023}},}\ } (\bibinfo {year} {2024})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Haustein}\ \emph {et~al.}(2024)\citenamefont {Haustein}, \citenamefont {Schares}, \citenamefont {Alperin}, \citenamefont {Hare}, \citenamefont {Butler},\ and\ \citenamefont {Sch{\"o}nfelder}}]{haustein2024estimating}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Haustein}}, \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont {Schares}}, \bibinfo {author} {\bibfnamefont {J.~P.}\ \bibnamefont {Alperin}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Hare}}, \bibinfo {author} {\bibfnamefont {L.-A.}\ \bibnamefont {Butler}}, \ and\ \bibinfo {author} {\bibfnamefont {N.}~\bibnamefont {Sch{\"o}nfelder}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {arXiv preprint arXiv:2407.16551}\ } (\bibinfo {year} {2024})}\BibitemShut {NoStop}%
 \end{thebibliography}%

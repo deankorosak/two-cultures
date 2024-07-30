@@ -11,6 +11,8 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: mainNotes.bib
 Database file #2: refs.bib
+Warning--entry type for "butler2024" isn't style-file defined
+--line 8 of file refs.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 merlin.mbs apsrev4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
 Control: key (0) 
@@ -23,45 +25,45 @@ Control: production of eprint (0) enabled
 Warning--missing journal in adda2023impact
 Warning--empty year in ROR
 Warning--empty year in wiley
-You've used 17 entries,
+You've used 16 entries,
             5847 wiz_defined-function locations,
-            1697 strings with 17821 characters,
-and the built_in function-call counts, 13981 in all, are:
-= -- 1000
-> -- 304
-< -- 76
-+ -- 114
-- -- 70
-* -- 2087
-:= -- 1497
-add.period$ -- 25
-call.type$ -- 17
-change.case$ -- 83
-chr.to.int$ -- 17
-cite$ -- 20
-duplicate$ -- 1303
-empty$ -- 1004
-format.name$ -- 179
-if$ -- 2692
+            1686 strings with 17929 characters,
+and the built_in function-call counts, 13849 in all, are:
+= -- 928
+> -- 351
+< -- 78
++ -- 126
+- -- 84
+* -- 2148
+:= -- 1448
+add.period$ -- 24
+call.type$ -- 16
+change.case$ -- 78
+chr.to.int$ -- 16
+cite$ -- 19
+duplicate$ -- 1283
+empty$ -- 981
+format.name$ -- 208
+if$ -- 2662
 int.to.chr$ -- 1
-int.to.str$ -- 25
-missing$ -- 149
-newline$ -- 103
-num.names$ -- 51
-pop$ -- 562
+int.to.str$ -- 24
+missing$ -- 144
+newline$ -- 100
+num.names$ -- 48
+pop$ -- 550
 preamble$ -- 1
-purify$ -- 83
+purify$ -- 78
 quote$ -- 0
-skip$ -- 531
+skip$ -- 502
 stack$ -- 0
-substring$ -- 345
-swap$ -- 1153
-text.length$ -- 29
+substring$ -- 307
+swap$ -- 1166
+text.length$ -- 37
 text.prefix$ -- 0
 top$ -- 8
-type$ -- 222
+type$ -- 218
 warning$ -- 3
-while$ -- 40
+while$ -- 36
 width$ -- 0
-write$ -- 187
-(There were 3 warnings)
+write$ -- 176
+(There were 4 warnings)
