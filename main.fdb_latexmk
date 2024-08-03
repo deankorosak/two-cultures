@@ -1,15 +1,15 @@
 # Fdb version 4
-["bibtex main"] 1722323456 "main.aux" "main.bbl" "main" 1722330558 0
-  "./mainNotes.bib" 1722330553 0 d41d8cd98f00b204e9800998ecf8427e ""
+["bibtex main"] 1722680456 "main.aux" "main.bbl" "main" 1722680462 0
+  "./mainNotes.bib" 1722680456 0 d41d8cd98f00b204e9800998ecf8427e ""
   "./refs.bib" 1722323433 8512 73bcaf11ef6551f5604e7824b1d25dac ""
   "/usr/local/texlive/2023/texmf-dist/bibtex/bst/revtex4-1/apsrev4-1.bst" 1602107945 71515 e333383ed72bf24aa6de7e8cabb55f84 ""
-  "main.aux" 1722330558 6330 1d77c6e475cbabeed56bc9e0510e4969 "pdflatex"
+  "main.aux" 1722680462 7841 e19b1c90cdfe16d12650a4d0ce56d81e "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1722330553 "/Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/two-cultures/main.tex" "main.pdf" "main" 1722330558 0
-  "/Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/two-cultures/main.tex" 1722330552 18260 344e18192b4e60cf15eb08aeabe652d2 ""
+["pdflatex"] 1722680456 "/Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/two-cultures/main.tex" "main.pdf" "main" 1722680462 0
+  "/Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/two-cultures/main.tex" 1722680450 19887 5b6f576f364f9126311afcbd7574f5a9 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -200,16 +200,19 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1698092707 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1698092700 7883458 d1702918a1a3bd96aad5c6ff1187660b ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
+  "Fig01af.png" 1722502269 751792 668f28856afff2ff5c5c2da8510b53cd ""
   "Fig01f.png" 1722275437 1274179 b96b0bf50d594d71fea013fa47fb3f88 ""
+  "Fig02af.png" 1722675004 90180 ee113610bae25966506c0b531f69a6de ""
   "Fig02f.png" 1722275481 381861 02e0a9490b4693f85689c9c1d0010318 ""
   "Fig03f.png" 1722275527 718548 58e13a594666cd63584279ff3a0a5dec ""
   "Fig04f.png" 1722275567 806368 4d2d043903335e24c5072674e2ca9528 ""
   "Fig05f.png" 1722275602 720249 40733768e7347961f2958efc0f13ea7a ""
   "Fig06f.png" 1722275642 462011 616d0aedac01e017be561e564dece8a2 ""
-  "main.aux" 1722330558 6330 1d77c6e475cbabeed56bc9e0510e4969 "pdflatex"
-  "main.bbl" 1722323456 10836 2f3cea8edb1655637fb79373f7ec3c57 "bibtex main"
-  "main.out" 1722330558 1003 a45464423d64b9c1e0de48e17abedfcf "pdflatex"
-  "main.tex" 1722330552 18260 344e18192b4e60cf15eb08aeabe652d2 ""
+  "Fig07.png" 1722680275 389123 f10224bc7281e9931fa62e304cfb7f6e ""
+  "main.aux" 1722680462 7841 e19b1c90cdfe16d12650a4d0ce56d81e "pdflatex"
+  "main.bbl" 1722680456 10836 2f3cea8edb1655637fb79373f7ec3c57 "bibtex main"
+  "main.out" 1722680462 1003 a45464423d64b9c1e0de48e17abedfcf "pdflatex"
+  "main.tex" 1722680450 19887 5b6f576f364f9126311afcbd7574f5a9 ""
   (generated)
   "main.aux"
   "main.log"
