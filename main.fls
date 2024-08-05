@@ -1005,12 +1005,12 @@ INPUT ./Fig02f.png
 INPUT Fig02f.png
 INPUT ./Fig02f.png
 INPUT ./Fig02f.png
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT ./Fig02af.png
 INPUT ./Fig02af.png
 INPUT Fig02af.png
 INPUT ./Fig02af.png
 INPUT ./Fig02af.png
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT ./Fig03f.png
 INPUT ./Fig03f.png
 INPUT Fig03f.png
