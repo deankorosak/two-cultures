@@ -1,15 +1,15 @@
 # Fdb version 4
-["bibtex main"] 1722757725 "main.aux" "main.bbl" "main" 1722758759 0
-  "./mainNotes.bib" 1722758753 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "./refs.bib" 1722323433 8512 73bcaf11ef6551f5604e7824b1d25dac ""
+["bibtex main"] 1725651612 "main.aux" "main.bbl" "main" 1725651618 0
+  "./mainNotes.bib" 1725651613 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "./refs.bib" 1725651391 10569 cf57d6c5f50753c6999cfaabd9185ca1 ""
   "/usr/local/texlive/2023/texmf-dist/bibtex/bst/revtex4-1/apsrev4-1.bst" 1602107945 71515 e333383ed72bf24aa6de7e8cabb55f84 ""
-  "main.aux" 1722758759 7841 b37ca85b683de852b2211e5cee6e5848 "pdflatex"
+  "main.aux" 1725651618 7841 1dd731a1de69a67a521a9ffd201d14d4 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1722758753 "/Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/two-cultures/main.tex" "main.pdf" "main" 1722758759 0
-  "/Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/two-cultures/main.tex" 1722758753 20117 ce497ac8e5cf37d3d0a27f076ca62f0c ""
+["pdflatex"] 1725651612 "/Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/two-cultures/main.tex" "main.pdf" "main" 1725651618 0
+  "/Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/two-cultures/main.tex" 1725651606 27224 71b788464c48fe0b52c8843477a065df ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -190,6 +190,7 @@
   "/usr/local/texlive/2023/texmf-dist/tex/latex/tools/xspace.sty" 1654720880 4545 4c279ac9292a1be8afa9ab2f1d3299c2 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/ucs/data/uni-0.def" 1660425649 7784 4da13291385de60ba3c334b604cea4db ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/ucs/data/uni-1.def" 1660425649 8217 87cd3e980771758261cdb58755dbeb46 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/ucs/data/uni-32.def" 1660425649 8033 68739cf6a91ebc9bff844d07183ecdd3 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/ucs/data/uni-global.def" 1660425649 1375 a9cd26ed13adef608374493c3ba873e5 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/ucs/ucs.sty" 1660425649 28759 986636dc25ad305c9a399f8a66ea2cd8 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/ucs/ucsencs.def" 1660425649 22451 4813aebd39d52954775dc133caf20eeb ""
@@ -209,10 +210,10 @@
   "Fig05f.png" 1722275602 720249 40733768e7347961f2958efc0f13ea7a ""
   "Fig06f.png" 1722275642 462011 616d0aedac01e017be561e564dece8a2 ""
   "Fig07.png" 1722680275 389123 f10224bc7281e9931fa62e304cfb7f6e ""
-  "main.aux" 1722758759 7841 b37ca85b683de852b2211e5cee6e5848 "pdflatex"
-  "main.bbl" 1722757725 10836 2f3cea8edb1655637fb79373f7ec3c57 "bibtex main"
-  "main.out" 1722758759 1003 a45464423d64b9c1e0de48e17abedfcf "pdflatex"
-  "main.tex" 1722758753 20117 ce497ac8e5cf37d3d0a27f076ca62f0c ""
+  "main.aux" 1725651618 7841 1dd731a1de69a67a521a9ffd201d14d4 "pdflatex"
+  "main.bbl" 1725651612 10677 f47fce4114e8cda68a11e76212a732a2 "bibtex main"
+  "main.out" 1725651618 1003 a45464423d64b9c1e0de48e17abedfcf "pdflatex"
+  "main.tex" 1725651606 27224 71b788464c48fe0b52c8843477a065df ""
   (generated)
   "main.aux"
   "main.log"

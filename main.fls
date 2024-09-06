@@ -1031,6 +1031,14 @@ INPUT ./Fig07.png
 INPUT Fig07.png
 INPUT ./Fig07.png
 INPUT ./Fig07.png
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/ucs/data/uni-32.def
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/ucs/data/uni-32.def
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/ucs/data/uni-32.def
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/ucs/data/uni-32.def
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/ucs/data/uni-0.def
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/ucs/data/uni-0.def
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/ucs/data/uni-0.def
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/ucs/data/uni-0.def
 INPUT ./Fig06f.png
 INPUT ./Fig06f.png
 INPUT Fig06f.png
@@ -1043,10 +1051,6 @@ INPUT main.bbl
 INPUT ./main.bbl
 INPUT main.bbl
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmtt9.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/ucs/data/uni-0.def
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/ucs/data/uni-0.def
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/ucs/data/uni-0.def
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/ucs/data/uni-0.def
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out

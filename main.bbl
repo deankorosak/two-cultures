@@ -69,7 +69,7 @@
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Priem}}, \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Piwowar}}, \ and\ \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Orr}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {arXiv preprint arXiv:2205.01833}\ } (\bibinfo {year} {2022})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {{Centre for Science and Technology Studies}}(2024)}]{cwts2024leiden}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {{Centre for Science and Technology Studies}}},\ }\href {https://open.leidenranking.com/} {\enquote {\bibinfo {title} {Cwts leiden ranking open edition},}\ } (\bibinfo {year} {2024}),\ \bibinfo {note} {based on open data from OpenAlex, the CWTS Leiden Ranking Open Edition offers transparent information about the scientific performance of over 1400 major universities worldwide.}\BibitemShut {Stop}%
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {{Centre for Science and Technology Studies}}},\ }\href@noop {} {\enquote {\bibinfo {title} {Cwts leiden ranking open edition},}\ }\bibinfo {howpublished} {\url{https://open.leidenranking.com/}} (\bibinfo {year} {2024})\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {{Research Organization Registry}}()}]{ROR}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibnamefont {{Research Organization Registry}}},\ }\href@noop {} {\enquote {\bibinfo {title} {{Research Organization Registry (ROR)}},}\ }\bibinfo {howpublished} {\url{https://ror.org/}},\ \bibinfo {note} {accessed: 2024-06-11}\BibitemShut {NoStop}%
