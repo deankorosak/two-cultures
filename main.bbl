@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{16}%
+\begin{thebibliography}{23}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -88,6 +88,27 @@
 \bibitem [{\citenamefont {Baccini}\ \emph {et~al.}(2019)\citenamefont {Baccini}, \citenamefont {De~Nicolao},\ and\ \citenamefont {Petrovich}}]{baccini2019citation}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Baccini}}, \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {De~Nicolao}}, \ and\ \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont {Petrovich}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {PLoS One}\ }\textbf {\bibinfo {volume} {14}},\ \bibinfo {pages} {e0221212} (\bibinfo {year} {2019})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Ajzen}(1991)}]{ajzen1991}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {I.}~\bibnamefont {Ajzen}},\ }\href {\doibase 10.1016/0749-5978(91)90020-T} {\bibfield  {journal} {\bibinfo  {journal} {Organizational Behavior and Human Decision Processes}\ }\textbf {\bibinfo {volume} {50}},\ \bibinfo {pages} {179} (\bibinfo {year} {1991})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Moksness}\ \emph {et~al.}(2020)\citenamefont {Moksness}, \citenamefont {Olsen},\ and\ \citenamefont {Tuu}}]{moksness2020}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.}~\bibnamefont {Moksness}}, \bibinfo {author} {\bibfnamefont {S.~O.}\ \bibnamefont {Olsen}}, \ and\ \bibinfo {author} {\bibfnamefont {H.~H.}\ \bibnamefont {Tuu}},\ }\href {\doibase 10.1108/JD-11-2019-0220} {\bibfield  {journal} {\bibinfo  {journal} {Journal of Documentation}\ }\textbf {\bibinfo {volume} {76}},\ \bibinfo {pages} {1393} (\bibinfo {year} {2020})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Sverdlichenko}\ \emph {et~al.}(2022)\citenamefont {Sverdlichenko}, \citenamefont {Xie},\ and\ \citenamefont {Margolin}}]{sverdlichenko2022}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {I.}~\bibnamefont {Sverdlichenko}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Xie}}, \ and\ \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont {Margolin}},\ }\href {\doibase 10.1016/j.jemep.2022.100758} {\bibfield  {journal} {\bibinfo  {journal} {Ethics, Medicine and Public Health}\ }\textbf {\bibinfo {volume} {21}},\ \bibinfo {pages} {100758} (\bibinfo {year} {2022})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Migheli}\ and\ \citenamefont {Ramello}(2013)}]{migheli2013}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Migheli}}\ and\ \bibinfo {author} {\bibfnamefont {G.~B.}\ \bibnamefont {Ramello}},\ }\href {\doibase 10.1007/s10657-013-9388-x} {\bibfield  {journal} {\bibinfo  {journal} {European Journal of Law and Economics}\ }\textbf {\bibinfo {volume} {35}},\ \bibinfo {pages} {149} (\bibinfo {year} {2013})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Hakhverdian}\ and\ \citenamefont {Mayne}(2012)}]{hakhverdian2012}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Hakhverdian}}\ and\ \bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont {Mayne}},\ }\href {\doibase 10.1017/S0022381612000412} {\bibfield  {journal} {\bibinfo  {journal} {The Journal of Politics}\ }\textbf {\bibinfo {volume} {74}},\ \bibinfo {pages} {739} (\bibinfo {year} {2012})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Tan}\ \emph {et~al.}(2017)\citenamefont {Tan}, \citenamefont {Liu}, \citenamefont {Huang},\ and\ \citenamefont {Zheng}}]{tan2017}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {X.}~\bibnamefont {Tan}}, \bibinfo {author} {\bibfnamefont {L.}~\bibnamefont {Liu}}, \bibinfo {author} {\bibfnamefont {Z.}~\bibnamefont {Huang}}, \ and\ \bibinfo {author} {\bibfnamefont {W.}~\bibnamefont {Zheng}},\ }\href {\doibase 10.1111/pops.12341} {\bibfield  {journal} {\bibinfo  {journal} {Political Psychology}\ }\textbf {\bibinfo {volume} {38}},\ \bibinfo {pages} {469} (\bibinfo {year} {2017})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {K{\"o}bis}\ \emph {et~al.}(2018)\citenamefont {K{\"o}bis}, \citenamefont {Iragorri-Carter},\ and\ \citenamefont {Starke}}]{kobis2018}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {N.~C.}\ \bibnamefont {K{\"o}bis}}, \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Iragorri-Carter}}, \ and\ \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont {Starke}},\ }in\ \href@noop {} {\emph {\bibinfo {booktitle} {Corruption and norms: Why informal rules matter}}},\ \bibinfo {editor} {edited by\ \bibinfo {editor} {\bibfnamefont {I.}~\bibnamefont {Kubbe}}\ and\ \bibinfo {editor} {\bibfnamefont {A.}~\bibnamefont {Engelbert}}}\ (\bibinfo  {publisher} {Springer},\ \bibinfo {year} {2018})\ pp.\ \bibinfo {pages} {31--52}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Klebel}\ and\ \citenamefont {Ross-Hellauer}(2022)}]{kbel_ross-hellauer_2022}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Klebel}}\ and\ \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Ross-Hellauer}},\ }\href {\doibase 10.5281/zenodo.7014802} {\enquote {\bibinfo {title} {{Data for The APC-Barrier and its effect on stratification in open access publishing}},}\ }\bibinfo {howpublished} {\url{https://doi.org/10.5281/zenodo.7014802}} (\bibinfo {year} {2022})\BibitemShut {NoStop}%

@@ -1,15 +1,15 @@
 # Fdb version 4
-["bibtex main"] 1725651612 "main.aux" "main.bbl" "main" 1725651618 0
-  "./mainNotes.bib" 1725651613 0 d41d8cd98f00b204e9800998ecf8427e ""
+["bibtex main"] 1725867312 "main.aux" "main.bbl" "main" 1725867773 0
+  "./mainNotes.bib" 1725867768 0 d41d8cd98f00b204e9800998ecf8427e ""
   "./refs.bib" 1725651391 10569 cf57d6c5f50753c6999cfaabd9185ca1 ""
   "/usr/local/texlive/2023/texmf-dist/bibtex/bst/revtex4-1/apsrev4-1.bst" 1602107945 71515 e333383ed72bf24aa6de7e8cabb55f84 ""
-  "main.aux" 1725651618 7841 1dd731a1de69a67a521a9ffd201d14d4 "pdflatex"
+  "main.aux" 1725867773 8730 44295e3cb0f7671d3d57a9b05b9dc2a6 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1725651612 "/Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/two-cultures/main.tex" "main.pdf" "main" 1725651618 0
-  "/Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/two-cultures/main.tex" 1725651606 27224 71b788464c48fe0b52c8843477a065df ""
+["pdflatex"] 1725867767 "/Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/two-cultures/main.tex" "main.pdf" "main" 1725867773 0
+  "/Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/two-cultures/main.tex" 1725867767 27913 c8f9b92e285f6aaf345155781dd96849 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -210,10 +210,10 @@
   "Fig05f.png" 1722275602 720249 40733768e7347961f2958efc0f13ea7a ""
   "Fig06f.png" 1722275642 462011 616d0aedac01e017be561e564dece8a2 ""
   "Fig07.png" 1722680275 389123 f10224bc7281e9931fa62e304cfb7f6e ""
-  "main.aux" 1725651618 7841 1dd731a1de69a67a521a9ffd201d14d4 "pdflatex"
-  "main.bbl" 1725651612 10677 f47fce4114e8cda68a11e76212a732a2 "bibtex main"
-  "main.out" 1725651618 1003 a45464423d64b9c1e0de48e17abedfcf "pdflatex"
-  "main.tex" 1725651606 27224 71b788464c48fe0b52c8843477a065df ""
+  "main.aux" 1725867773 8730 44295e3cb0f7671d3d57a9b05b9dc2a6 "pdflatex"
+  "main.bbl" 1725867312 14756 ba79a651cfa71a816cbdd1e1ab91383e "bibtex main"
+  "main.out" 1725867773 1003 a45464423d64b9c1e0de48e17abedfcf "pdflatex"
+  "main.tex" 1725867767 27913 c8f9b92e285f6aaf345155781dd96849 ""
   (generated)
   "main.aux"
   "main.log"

@@ -25,45 +25,45 @@ Control: production of eprint (0) enabled
 Warning--missing journal in adda2023impact
 Warning--empty year in ROR
 Warning--empty year in wiley
-You've used 16 entries,
+You've used 23 entries,
             5847 wiz_defined-function locations,
-            1685 strings with 17758 characters,
-and the built_in function-call counts, 13836 in all, are:
-= -- 928
-> -- 351
-< -- 78
-+ -- 126
-- -- 84
-* -- 2144
-:= -- 1448
-add.period$ -- 24
-call.type$ -- 16
-change.case$ -- 77
-chr.to.int$ -- 16
-cite$ -- 19
-duplicate$ -- 1281
-empty$ -- 981
-format.name$ -- 208
-if$ -- 2661
+            1740 strings with 19122 characters,
+and the built_in function-call counts, 20689 in all, are:
+= -- 1387
+> -- 519
+< -- 122
++ -- 182
+- -- 122
+* -- 3187
+:= -- 2125
+add.period$ -- 31
+call.type$ -- 23
+change.case$ -- 105
+chr.to.int$ -- 23
+cite$ -- 26
+duplicate$ -- 1925
+empty$ -- 1496
+format.name$ -- 310
+if$ -- 4033
 int.to.chr$ -- 1
-int.to.str$ -- 24
-missing$ -- 143
-newline$ -- 100
-num.names$ -- 48
-pop$ -- 549
+int.to.str$ -- 31
+missing$ -- 227
+newline$ -- 121
+num.names$ -- 70
+pop$ -- 813
 preamble$ -- 1
-purify$ -- 78
+purify$ -- 113
 quote$ -- 0
-skip$ -- 502
+skip$ -- 752
 stack$ -- 0
-substring$ -- 305
-swap$ -- 1165
-text.length$ -- 37
+substring$ -- 496
+swap$ -- 1772
+text.length$ -- 58
 text.prefix$ -- 0
 top$ -- 8
-type$ -- 218
+type$ -- 315
 warning$ -- 3
-while$ -- 36
+while$ -- 60
 width$ -- 0
-write$ -- 176
+write$ -- 232
 (There were 4 warnings)
