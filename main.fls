@@ -988,8 +988,6 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm
-INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
 INPUT ./Fig01f.png
 INPUT ./Fig01f.png
 INPUT Fig01f.png
@@ -1000,7 +998,7 @@ INPUT ./Fig01af.png
 INPUT Fig01af.png
 INPUT ./Fig01af.png
 INPUT ./Fig01af.png
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT ./Fig02f.png
 INPUT ./Fig02f.png
 INPUT Fig02f.png
@@ -1035,11 +1033,6 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/ucs/data/uni-32.def
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/ucs/data/uni-32.def
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/ucs/data/uni-32.def
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/ucs/data/uni-32.def
-INPUT ./Fig06f.png
-INPUT ./Fig06f.png
-INPUT Fig06f.png
-INPUT ./Fig06f.png
-INPUT ./Fig06f.png
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
 INPUT ./main.bbl
@@ -1047,10 +1040,6 @@ INPUT main.bbl
 INPUT ./main.bbl
 INPUT main.bbl
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmtt9.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/ucs/data/uni-0.def
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/ucs/data/uni-0.def
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/ucs/data/uni-0.def
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/ucs/data/uni-0.def
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
@@ -1058,6 +1047,8 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.p
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
@@ -1069,4 +1060,3 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb
