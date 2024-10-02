@@ -1,15 +1,15 @@
 # Fdb version 4
-["bibtex main"] 1727418886 "main.aux" "main.bbl" "main" 1727682765 0
-  "./mainNotes.bib" 1727682760 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "./refs.bib" 1725651391 10569 cf57d6c5f50753c6999cfaabd9185ca1 ""
+["bibtex main"] 1727900018 "main.aux" "main.bbl" "main" 1727900023 0
+  "./mainNotes.bib" 1727900018 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "./refs.bib" 1727850872 11218 06e1ce14a4f2e18264b4c2d6bd21dc37 ""
   "/usr/local/texlive/2023/texmf-dist/bibtex/bst/revtex4-1/apsrev4-1.bst" 1602107945 71515 e333383ed72bf24aa6de7e8cabb55f84 ""
-  "main.aux" 1727682765 7534 4de3443675c91a33f3ef8e9af49fca32 "pdflatex"
+  "main.aux" 1727900022 7499 fdf71ed723cfaf308ff1e9f9f538fa65 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1727682760 "/Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/two-cultures/main.tex" "main.pdf" "main" 1727682765 0
-  "/Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/two-cultures/main.tex" 1727682760 22111 f5a210fba29f9e3cc167a07d8f6ff47e ""
+["pdflatex"] 1727900018 "/Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/two-cultures/main.tex" "main.pdf" "main" 1727900023 0
+  "/Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/two-cultures/main.tex" 1727900013 23806 a784f73383dc08437dc4ed74fd4444fb ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm" 1246382020 996 a18840b13b499c08ac2de96a99eda4bc ""
@@ -205,12 +205,11 @@
   "Fig02f.png" 1727171716 370069 d00342470d749342146db831f17b14cf ""
   "Fig03f.png" 1722275527 718548 58e13a594666cd63584279ff3a0a5dec ""
   "Fig04f.png" 1722275567 806368 4d2d043903335e24c5072674e2ca9528 ""
-  "Fig05f.png" 1722275602 720249 40733768e7347961f2958efc0f13ea7a ""
   "Fig07.png" 1722680275 389123 f10224bc7281e9931fa62e304cfb7f6e ""
-  "main.aux" 1727682765 7534 4de3443675c91a33f3ef8e9af49fca32 "pdflatex"
-  "main.bbl" 1727418886 9345 f4122f4acf85964e7133777d3023a8c7 "bibtex main"
-  "main.out" 1727682765 1003 a45464423d64b9c1e0de48e17abedfcf "pdflatex"
-  "main.tex" 1727682760 22111 f5a210fba29f9e3cc167a07d8f6ff47e ""
+  "main.aux" 1727900022 7499 fdf71ed723cfaf308ff1e9f9f538fa65 "pdflatex"
+  "main.bbl" 1727900018 10253 85e68266f2d970f5af46843ffdc49569 "bibtex main"
+  "main.out" 1727900022 1003 a45464423d64b9c1e0de48e17abedfcf "pdflatex"
+  "main.tex" 1727900013 23806 a784f73383dc08437dc4ed74fd4444fb ""
   (generated)
   "main.aux"
   "main.log"

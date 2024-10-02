@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{13}%
+\begin{thebibliography}{15}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -64,6 +64,12 @@
 \bibitem [{\citenamefont {Fillon}\ \emph {et~al.}(2024)\citenamefont {Fillon}, \citenamefont {Maniadis}, \citenamefont {Mendez},\ and\ \citenamefont {Sanchez-Nuneez}}]{fillon2024should}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Fillon}}, \bibinfo {author} {\bibfnamefont {Z.}~\bibnamefont {Maniadis}}, \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont {Mendez}}, \ and\ \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont {Sanchez-Nuneez}},\ }\href {\doibase 10.12688/openreseurope.17694.1} {\bibfield  {journal} {\bibinfo  {journal} {Open Res Europe}\ }\textbf {\bibinfo {volume} {4:127}} (\bibinfo {year} {2024}),\ 10.12688/openreseurope.17694.1}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Commission}(2023)}]{european_innovation_scoreboard_2023}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {E.}~\bibnamefont {Commission}},\ }\href {https://research-and-innovation.ec.europa.eu/statistics/performance-indicators/european-innovation-scoreboard_en#european-innovation-scoreboard-2023} {\enquote {\bibinfo {title} {European innovation scoreboard 2023},}\ } (\bibinfo {year} {2023}),\ \bibinfo {note} {accessed: 2024-10-02}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {International}(2022)}]{transparency_international_cpi_2022}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {International}},\ }\href {https://www.transparency.org/en/cpi/2022} {\enquote {\bibinfo {title} {Corruption perceptions index 2022},}\ } (\bibinfo {year} {2022}),\ \bibinfo {note} {accessed: 2024-10-02}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Baccini}\ \emph {et~al.}(2019)\citenamefont {Baccini}, \citenamefont {De~Nicolao},\ and\ \citenamefont {Petrovich}}]{baccini2019citation}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Baccini}}, \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {De~Nicolao}}, \ and\ \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont {Petrovich}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {PLoS One}\ }\textbf {\bibinfo {volume} {14}},\ \bibinfo {pages} {e0221212} (\bibinfo {year} {2019})}\BibitemShut {NoStop}%

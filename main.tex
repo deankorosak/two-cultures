@@ -132,7 +132,9 @@ Figure 4 shows the mean p-values for the Mann-Whitney U test for the differences
 }
 \end{figure}
 
-Research output measured through scholarly publications is one of key indicators in almost all university rankings so it should not be surprising that the scholarly publishing culture of universities might be closely related to their ranking. We checked this by comparing the MDPI ratio of universities with their rank in CWTS Leiden Open Ranking. In figure 5, panel A, we display the relationship between the MDPI ratio and the rank of universities included in CWTS Leiden Open Ranking table where the individual data points in the figure are the averages of MDPI ratios of universities in bins each 50 ranks wide. This relationship can be well described by a simple linear relationship between the rank of the university and its scholarly publishing culture. In panel B of figure 3 we show the relationship between the MDPI ratio and the rank of countries of universities included in CWTS Leiden Open Ranking table. 
+Research output measured through scholarly publications is one of key indicators in almost all university rankings so it should not be surprising that the scholarly publishing culture of universities might be closely related to their ranking. We checked this by comparing the MDPI ratio of universities with their rank in CWTS Leiden Open Ranking. In figure 5, panel A, we display the relationship between the MDPI ratio and the rank of universities included in CWTS Leiden Open Ranking table where the individual data points in the figure are the averages of MDPI ratios of universities in bins each 50 ranks wide. This relationship can be well described by a simple linear relationship between the rank of the university and its scholarly publishing culture. In panel B of figure 5 we show the relationship between the MDPI ratio and the rank of countries of universities included in CWTS Leiden Open Ranking table.
+
+
 
 \begin{figure}
     \centering
@@ -141,9 +143,13 @@ Research output measured through scholarly publications is one of key indicators
 }
 \end{figure}
 
-Scholarly publishing culture of countries can also be related to their socio-economic context. Bringing together the data on innovation potential (European Innovation Scoreboard, EIS) and corruption perception (Corruption Perception Index, CPI) with the MDPI ratio of countries we can see how these factors are related to the scholarly publishing culture of countries. In figure 6 we show the relationship between the EIS (panel A), CPI (panel B) and MDPI ratio $\rho$ at a country level. For clarity only some of countries are indicated with country codes.
+Scholarly publishing culture of countries can also be related to their socio-economic context. Bringing together the data on innovation potential (European Innovation Scoreboard, EIS)~\cite{european_innovation_scoreboard_2023} and corruption perception (Corruption Perception Index, CPI)~\cite{transparency_international_cpi_2022} with the MDPI ratio of countries we can see how these factors are related to the scholarly publishing culture of countries. In figure 6 we show the relationship between the (normalized) EIS (panel A), CPI (panel B) and MDPI ratio $\rho$ at a country level. For clarity only some of countries are indicated with country codes.
 % correlation transitivity
+There are clear and strong correlations between $\rho$ and EIS and between $rho$ and CPI, with correlation coeffients $a=\Corr(\rho, EIS)=-0.93$ and $b=\Corr(\rho, CPI)=-0.86$ respectively, computed from the datasets. Since for EIS higher values indicate better innovation potential and for CPI higher values indicate lower corruption perception, the strong correlations between $\rho$ and EIS and between $\rho$ and CPI indicate that countries with higher innovation potential and lower corruption perception are associated with lower MDPI ratio. 
 
+The strong correlations between $\rho$ and EIS and between $\rho$ and CPI serve also as a validation of choosing the MDPI ratio as a measure of scholarly publishing culture in the sense that due to correlation transitivity in such case one should also observe a strong positive correlation between EIS and CPI. Indeed, the empirical correlation between EIS and CPI is $\Corr(EIS, CPI)=0.87$, while the theoretical lower bound for the correlation coefficient between EIS and CPI is $ab-\sqrt{1-a^2}\sqrt{1-b^2}=0.61$.
+
+\begin{comment}
 \begin{figure}
     \centering
     \includegraphics[width=.6\linewidth]{Fig05f.png}
@@ -151,18 +157,21 @@ Scholarly publishing culture of countries can also be related to their socio-eco
 }
 \end{figure}
 
-Figure 7 displays the distribution of MDPI ratio for CoARA universities included in CWTS ranking compared to all CWTS ranked universities. Both distributions are quite similar, exhibiting two-gaussian mixture shape. This puts CoARA group universities in a unique position where one can observe whether in the following years the shift towards more homogeneous publishing practice will happen driven by coalitions tenets.   
+Figure 7 displays the distribution of MDPI ratio for CoARA universities included in CWTS ranking compared to all CWTS ranked universities. Both distributions are quite similar, exhibiting two-gaussian mixture shape. This puts CoARA group universities in a unique position where one can observe whether in the following years the shift towards more homogeneous publishing practice will happen driven by coalition tenets.  
+\end{comment} 
 
 \section{Evolution of two cultures in scholarly publishing }
 In one study~\cite{baccini2019citation} the authors examine how the introduction of bibliometric evaluations in Italy in 2011 led researchers to change their behavior, focusing more on self-citations and strategic citations to improve their evaluation scores. One way to understand such a shift is to use a game theoretical framework, where the new policy incentivizes researchers to prioritize self-promotion over traditional publication practices. This collective shift in behavior demonstrates how policy changes can significantly influence academic norms, leading to a new equilibrium where citation gaming becomes the dominant strategy to achieve career advancements. 
 
 We showed that the MDPI ratio distribution in case of universities and countries is well described by two-gaussian mixed distribution which is a weighted sum of two gaussian distributions. Suppose that means and variances evolve with time much slower than the values of the weight $\omega\in [0, 1]$.  Therefore, the shape of $P(x)$ will be mostly determined by the time evolution of $\omega$. The emergence of two cultures in scholarly publishing when $\omega > 0$ or when the second peak with $\mu_2 >\mu_1$ occurs.  
 
-To show how two distinct cultures can emerge from a single culture within the realm of scholarly publishing in the EU, we use a game theory approach. The game involves researchers choosing between two strategies: publishing in established, legacy journals with typically slow reviewing processes (strategy B) or in new, fast-reviewing, open-access journals (strategy A). Initially, most researchers follow strategy B, reflecting the traditional approach. However, an increasing push for open science and the appeal of rapid dissemination create incentives for adopting strategy A. 
+To show how two distinct cultures can emerge from a single culture within the realm of scholarly publishing in the EU, we use a game theory approach. The game involves researchers choosing between two strategies: publishing in established, legacy journals with typically slow reviewing processes (strategy B) or in new, fast-reviewing, open-access journals (strategy A). Initially, most researchers follow the strategy B, reflecting the traditional approach. However, an increasing push for open science and the appeal of rapid dissemination create incentives for adopting the strategy A. 
 
 \begin{equation}
-    u_1 = P(e_1, e_2)R - e_1
+    u_i = P(e_i, e_j)R - e_i
 \end{equation}
+
+where $u_i$ is the payoff of researcher $i$, $P(e_i, e_j)$ is the probability, $R$ is the reward for coordination, and $e_i$ is the effort of researcher $i$. $P(e_i, e_j)$ is determined by factors such as the coordination between researchers, citation practices, visibility, academic recognition, etc.
 
 \begin{figure}
     \centering
@@ -187,11 +196,10 @@ First, in relation to perceived behavioral control, researchers from $H_{MDPI}$ 
 
 We also found that researchers from countries with higher corruption perception are more likely to publish in MDPI over the Big Five journals. While this relationship has not yet been investigated in other countries, some parallels can be drawn from the broader literature on the characteristics of individuals who live in countries perceived as highly corrupt. For example, it is well-known that perceptions of corruption are associated with lower institutional trust~\cite{hakhverdian2012}, lower meritocratic ideology~\cite{tan2017}, and adaptive behaviors, whereby societal levels of corruption result in norm and rule violations on the individual level~\cite{kobis2018}. In the specific context of scholarly publishing, researchers may distrust the fairness of the peer-review processes and traditional publishing practices and merits in general. Moreover, environments with high corruption may sometimes be characterized by uncertain career advancement procedures and less transparent and equitable funding, motivating researchers to publish quickly to bolster their CVs and improve their chances in these ambiguous circumstances. 
 
+The observed relationship between EIS, CPI, and $\rho$ highlights how academic publishing choices can mirror broader socio-economic and governance factors, with $\rho$ acting as a significant indicator of these underlying dynamics. Countries with higher innovation (EIS) and lower corruption (CPI) may be more entrenched in established academic practices, favoring legacy journals, while countries with lower scores may rely more heavily on newer, open access journals, possibly due to less stringent academic systems, fewer resources, or a push for faster academic output. The choice to publish in newer, fast-review open access journals versus legacy journals might also be tied to institutional strength and governance quality. 
+
 Our findings raise concerns about the potential inequalities in scholarly publishing across Europe. The preference for MDPI publications in $H_{MDPI}$ countries and lower-ranked universities may be influenced by factors such as publication speed and perceived ease of acceptance but could also indicate various challenges faced by researchers in these environments, such as fewer resources available for research and systemic issues that push researchers towards certain publication outlets. In line with this, governments and institutions in $H_{MDPI}$ countries should continue enhancing their support for research activities (e.g., transparent funding procedures, budgets for article processing charges) and empowering academics with better infrastructure, mentoring, and collaboration options. Moreover, extensive efforts should be dedicated to promoting transparent and fair evaluation metrics that go beyond the mere quantity of publications. 
 
-mutations: incentives, funding, legislation, open access, APCs, prestige, career advancement, research quality, collaboration, citation practices, visibility, academic recognition, innovation potential, corruption perception, socio-economic contexts, regional dynamics, policy changes, institutional rankings,
-Labor law, universities and research assessment systems across EU: north-west vs south-east comparison 
-Response of countries to open access/science EU initiative and the NW-SE divide... $H_{MDPI}$ vs $L_{MDPI}$ gap, ERA harmonization
   
 \begin{center}
 --\,--\,--\,--\,--
