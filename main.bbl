@@ -52,6 +52,9 @@
 \bibitem [{\citenamefont {Watson}\ \emph {et~al.}(2023)\citenamefont {Watson}, \citenamefont {Korošak},\ and\ \citenamefont {Štiglic}}]{watson2023assessing}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Watson}}, \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Korošak}}, \ and\ \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {Štiglic}},\ }\href@noop {} {\enquote {\bibinfo {title} {Assessing individual research performance},}\ }\bibinfo {howpublished} {\url{https://www.hepi.ac.uk/2023/05/02/assessing-individual-research-performance/}} (\bibinfo {year} {2023}),\ \bibinfo {note} {hEPI}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Baccini}\ \emph {et~al.}(2019)\citenamefont {Baccini}, \citenamefont {De~Nicolao},\ and\ \citenamefont {Petrovich}}]{baccini2019citation}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Baccini}}, \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {De~Nicolao}}, \ and\ \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont {Petrovich}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {PLoS One}\ }\textbf {\bibinfo {volume} {14}},\ \bibinfo {pages} {e0221212} (\bibinfo {year} {2019})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Priem}\ \emph {et~al.}(2022)\citenamefont {Priem}, \citenamefont {Piwowar},\ and\ \citenamefont {Orr}}]{priem2022openalex}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Priem}}, \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Piwowar}}, \ and\ \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Orr}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {arXiv preprint arXiv:2205.01833}\ } (\bibinfo {year} {2022})}\BibitemShut {NoStop}%
@@ -70,9 +73,6 @@
 \bibitem [{\citenamefont {International}(2022)}]{transparency_international_cpi_2022}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {International}},\ }\href {https://www.transparency.org/en/cpi/2022} {\enquote {\bibinfo {title} {Corruption perceptions index 2022},}\ } (\bibinfo {year} {2022}),\ \bibinfo {note} {accessed: 2024-10-02}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Baccini}\ \emph {et~al.}(2019)\citenamefont {Baccini}, \citenamefont {De~Nicolao},\ and\ \citenamefont {Petrovich}}]{baccini2019citation}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Baccini}}, \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {De~Nicolao}}, \ and\ \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont {Petrovich}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {PLoS One}\ }\textbf {\bibinfo {volume} {14}},\ \bibinfo {pages} {e0221212} (\bibinfo {year} {2019})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Ajzen}(1991)}]{ajzen1991}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {I.}~\bibnamefont {Ajzen}},\ }\href {\doibase 10.1016/0749-5978(91)90020-T} {\bibfield  {journal} {\bibinfo  {journal} {Organizational Behavior and Human Decision Processes}\ }\textbf {\bibinfo {volume} {50}},\ \bibinfo {pages} {179} (\bibinfo {year} {1991})}\BibitemShut {NoStop}%

@@ -988,6 +988,7 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm
+INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT ./Fig01f.png
 INPUT ./Fig01f.png
 INPUT Fig01f.png
@@ -998,7 +999,6 @@ INPUT ./Fig01af.png
 INPUT Fig01af.png
 INPUT ./Fig01af.png
 INPUT ./Fig01af.png
-INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT ./Fig02f.png
 INPUT ./Fig02f.png
 INPUT Fig02f.png
