@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{23}%
+\begin{thebibliography}{24}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -109,6 +109,9 @@
 \bibitem [{\citenamefont {Stojmenova~Duh}\ \emph {et~al.}(2019)\citenamefont {Stojmenova~Duh}, \citenamefont {Duh}, \citenamefont {Droftina}, \citenamefont {Kos}, \citenamefont {Duh}, \citenamefont {Simonič~Korošak},\ and\ \citenamefont {Korošak}}]{publish-and-flourish_2019}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {E.}~\bibnamefont {Stojmenova~Duh}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Duh}}, \bibinfo {author} {\bibfnamefont {U.}~\bibnamefont {Droftina}}, \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Kos}}, \bibinfo {author} {\bibfnamefont {U.}~\bibnamefont {Duh}}, \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Simonič~Korošak}}, \ and\ \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Korošak}},\ }\href {\doibase 10.3390/publications7020033} {\bibfield  {journal} {\bibinfo  {journal} {Publications}\ }\textbf {\bibinfo {volume} {7}},\ \bibinfo {pages} {33} (\bibinfo {year} {2019})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Erren}\ \emph {et~al.}(2016)\citenamefont {Erren}, \citenamefont {Shaw},\ and\ \citenamefont {Morfeld}}]{erren_analyzing_2016}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.~C.}\ \bibnamefont {Erren}}, \bibinfo {author} {\bibfnamefont {D.~M.}\ \bibnamefont {Shaw}}, \ and\ \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont {Morfeld}},\ }\href {\doibase 10.1007/s11948-015-9701-x} {\bibfield  {journal} {\bibinfo  {journal} {Sci Eng Ethics}\ }\textbf {\bibinfo {volume} {22}},\ \bibinfo {pages} {1431} (\bibinfo {year} {2016})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Hakhverdian}\ and\ \citenamefont {Mayne}(2012)}]{hakhverdian2012}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Hakhverdian}}\ and\ \bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont {Mayne}},\ }\href {\doibase 10.1017/S0022381612000412} {\bibfield  {journal} {\bibinfo  {journal} {The Journal of Politics}\ }\textbf {\bibinfo {volume} {74}},\ \bibinfo {pages} {739} (\bibinfo {year} {2012})}\BibitemShut {NoStop}%

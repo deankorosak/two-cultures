@@ -23,45 +23,45 @@ Control: production of eprint (0) enabled
 Warning--missing journal in dagiene_incentivising_2024
 Warning--empty year in ROR
 Warning--missing publisher in sasvari2023current
-You've used 23 entries,
+You've used 24 entries,
             5847 wiz_defined-function locations,
-            1758 strings with 19958 characters,
-and the built_in function-call counts, 22818 in all, are:
-= -- 1445
-> -- 631
-< -- 145
-+ -- 210
-- -- 152
-* -- 3599
-:= -- 2259
-add.period$ -- 28
-call.type$ -- 23
-change.case$ -- 101
-chr.to.int$ -- 23
-cite$ -- 26
-duplicate$ -- 2117
-empty$ -- 1654
-format.name$ -- 370
-if$ -- 4494
+            1768 strings with 20252 characters,
+and the built_in function-call counts, 23802 in all, are:
+= -- 1510
+> -- 657
+< -- 151
++ -- 218
+- -- 158
+* -- 3753
+:= -- 2356
+add.period$ -- 29
+call.type$ -- 24
+change.case$ -- 105
+chr.to.int$ -- 24
+cite$ -- 27
+duplicate$ -- 2208
+empty$ -- 1727
+format.name$ -- 385
+if$ -- 4691
 int.to.chr$ -- 1
-int.to.str$ -- 31
-missing$ -- 259
-newline$ -- 121
-num.names$ -- 70
-pop$ -- 865
+int.to.str$ -- 32
+missing$ -- 271
+newline$ -- 124
+num.names$ -- 73
+pop$ -- 903
 preamble$ -- 1
-purify$ -- 114
+purify$ -- 119
 quote$ -- 0
-skip$ -- 805
+skip$ -- 840
 stack$ -- 0
-substring$ -- 543
-swap$ -- 2013
-text.length$ -- 77
+substring$ -- 569
+swap$ -- 2100
+text.length$ -- 80
 text.prefix$ -- 0
 top$ -- 8
-type$ -- 330
+type$ -- 344
 warning$ -- 3
-while$ -- 66
+while$ -- 69
 width$ -- 0
-write$ -- 234
+write$ -- 242
 (There were 3 warnings)
