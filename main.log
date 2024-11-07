@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.23)  7 NOV 2024 22:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.23)  7 NOV 2024 22:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -670,11 +670,11 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 Class revtex4-2 Info: Taking \maketitle back from hyperref on input line 32.
 \openout3 = `mainNotes.bib'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 69.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 72.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 69.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 72.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/ucs/data/uni-1.def
@@ -685,71 +685,68 @@ File: uni-32.def 2022/08/07 UCS: Unicode data U+2000..U+20FF
 <Fig01f.png, id=65, 1041.8925pt x 531.9875pt>
 File: Fig01f.png Graphic file (type png)
 <use Fig01f.png>
-Package pdftex.def Info: Fig01f.png  used on input line 103.
+Package pdftex.def Info: Fig01f.png  used on input line 106.
 (pdftex.def)             Requested size: 246.0pt x 125.60153pt.
-<Fig01af.png, id=67, 717.68124pt x 425.59pt>
-File: Fig01af.png Graphic file (type png)
-<use Fig01af.png>
-Package pdftex.def Info: Fig01af.png  used on input line 112.
-(pdftex.def)             Requested size: 246.0pt x 145.88058pt.
  [2]
 
-LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 118.
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 112.
 
+<Fig01af.png, id=80, 717.68124pt x 425.59pt>
+File: Fig01af.png Graphic file (type png)
+<use Fig01af.png>
+Package pdftex.def Info: Fig01af.png  used on input line 115.
+(pdftex.def)             Requested size: 246.0pt x 145.88058pt.
 <Fig02f.png, id=81, 729.72626pt x 260.975pt>
 File: Fig02f.png Graphic file (type png)
 <use Fig02f.png>
-Package pdftex.def Info: Fig02f.png  used on input line 125.
+Package pdftex.def Info: Fig02f.png  used on input line 128.
 (pdftex.def)             Requested size: 246.0pt x 87.97769pt.
 <Fig02af.png, id=82, 721.69624pt x 256.96pt>
 File: Fig02af.png Graphic file (type png)
 <use Fig02af.png>
-Package pdftex.def Info: Fig02af.png  used on input line 132.
+Package pdftex.def Info: Fig02af.png  used on input line 135.
 (pdftex.def)             Requested size: 246.0pt x 87.58873pt.
 <Fig03f.png, id=83, 710.655pt x 509.905pt>
 File: Fig03f.png Graphic file (type png)
 <use Fig03f.png>
-Package pdftex.def Info: Fig03f.png  used on input line 141.
+Package pdftex.def Info: Fig03f.png  used on input line 144.
 (pdftex.def)             Requested size: 246.0pt x 176.50873pt.
 [3
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.147 
+l.148 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.147 
+l.148 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.147 
+l.148 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.147 
+l.148 
        <./Fig01f.png> <./Fig01af.png> <./Fig02f.png> <./Fig02af.png>]
-
-LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 147.
-
 <Fig04f.png, id=99, 716.6775pt x 504.88625pt>
 File: Fig04f.png Graphic file (type png)
 <use Fig04f.png>
-Package pdftex.def Info: Fig04f.png  used on input line 150.
+Package pdftex.def Info: Fig04f.png  used on input line 153.
 (pdftex.def)             Requested size: 246.0pt x 173.29997pt.
-[4
+ [4
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.166 
+l.169 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.166 
+l.169 
        <./Fig03f.png> <./Fig04f.png>] [5] [6] (./main.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 54--55
  []\OT1/cmr/m/n/9 R. Wat-son, D. Koro^^Tsak,  and G. []Stiglic,
@@ -782,15 +779,15 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 9DA1B17AF0CC90855051C3CFA1945C2E;1194.
  ) 
 Here is how much of TeX's memory you used:
- 26232 strings out of 476025
- 473184 string characters out of 5790016
+ 26231 strings out of 476025
+ 473176 string characters out of 5790016
  1888388 words of memory out of 5000000
- 46194 multiletter control sequences out of 15000+600000
+ 46193 multiletter control sequences out of 15000+600000
  518989 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,6n,103p,1957b,748s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on main.pdf (7 pages, 1871783 bytes).
+Output written on main.pdf (7 pages, 1873287 bytes).
 PDF statistics:
  276 PDF objects out of 1000 (max. 8388607)
  217 compressed objects within 3 object streams
