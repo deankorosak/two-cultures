@@ -1,15 +1,15 @@
 # Fdb version 4
-["bibtex main"] 1730667065 "main.aux" "main.bbl" "main" 1730667070 0
-  "./mainNotes.bib" 1730667066 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "./refs.bib" 1730666357 25911 23f000773d383154e4cb34c222ec6e74 ""
+["bibtex main"] 1730841529 "main.aux" "main.bbl" "main" 1730841534 0
+  "./mainNotes.bib" 1730841530 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "./refs.bib" 1730757299 29052 7d675cf10e363e103dcde054372ffd7f ""
   "/usr/local/texlive/2023/texmf-dist/bibtex/bst/revtex4-1/apsrev4-1.bst" 1602107945 71515 e333383ed72bf24aa6de7e8cabb55f84 ""
-  "main.aux" 1730667070 9744 f96109425ec849534a5142789bc99b61 "pdflatex"
+  "main.aux" 1730841534 9846 6870e4b1c5799c1c3191426f87177dc3 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1730667065 "/Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/two-cultures/main.tex" "main.pdf" "main" 1730667070 0
-  "/Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/two-cultures/main.tex" 1730667060 29244 b04fc9555b920aa193faffd8fcbe9f26 ""
+["pdflatex"] 1730841529 "/Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/two-cultures/main.tex" "main.pdf" "main" 1730841534 0
+  "/Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/two-cultures/main.tex" 1730841524 35759 eb4a2d0a25da7e030882aedc4a8a5159 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm" 1246382020 996 a18840b13b499c08ac2de96a99eda4bc ""
@@ -35,6 +35,7 @@
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb" 1248133631 32298 c6d25bb16d1eac01ebdc6d7084126a1e ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1248133631 30251 6afa5cb1d0204815a708a080681d4674 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb" 1248133631 37166 8ab3487cbe3ab49ebce74c29ea2418db ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1248133631 36281 c355509802a035cadc5f15869451dcee ""
@@ -206,10 +207,10 @@
   "Fig02f.png" 1727171716 370069 d00342470d749342146db831f17b14cf ""
   "Fig03f.png" 1722275527 718548 58e13a594666cd63584279ff3a0a5dec ""
   "Fig04f.png" 1722275567 806368 4d2d043903335e24c5072674e2ca9528 ""
-  "main.aux" 1730667070 9744 f96109425ec849534a5142789bc99b61 "pdflatex"
-  "main.bbl" 1730667065 17012 1e418f0ba0200e5c9102988a6b8b5a54 "bibtex main"
-  "main.out" 1730667070 1194 9da1b17af0cc90855051c3cfa1945c2e "pdflatex"
-  "main.tex" 1730667060 29244 b04fc9555b920aa193faffd8fcbe9f26 ""
+  "main.aux" 1730841534 9846 6870e4b1c5799c1c3191426f87177dc3 "pdflatex"
+  "main.bbl" 1730841529 17499 56bf1ccc0d909e23e58ae2bf80eb43f3 "bibtex main"
+  "main.out" 1730841534 1194 9da1b17af0cc90855051c3cfa1945c2e "pdflatex"
+  "main.tex" 1730841524 35759 eb4a2d0a25da7e030882aedc4a8a5159 ""
   (generated)
   "main.aux"
   "main.log"
