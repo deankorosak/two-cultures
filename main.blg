@@ -25,43 +25,43 @@ Warning--empty year in ROR
 Warning--missing publisher in sasvari2023current
 You've used 26 entries,
             5847 wiz_defined-function locations,
-            1783 strings with 20784 characters,
-and the built_in function-call counts, 25571 in all, are:
-= -- 1638
+            1783 strings with 20783 characters,
+and the built_in function-call counts, 25660 in all, are:
+= -- 1657
 > -- 695
-< -- 163
+< -- 161
 + -- 230
 - -- 166
-* -- 4010
-:= -- 2536
+* -- 4023
+:= -- 2545
 add.period$ -- 31
 call.type$ -- 26
 change.case$ -- 113
 chr.to.int$ -- 26
 cite$ -- 29
-duplicate$ -- 2375
-empty$ -- 1860
+duplicate$ -- 2382
+empty$ -- 1864
 format.name$ -- 411
-if$ -- 5044
+if$ -- 5066
 int.to.chr$ -- 1
 int.to.str$ -- 34
-missing$ -- 293
+missing$ -- 294
 newline$ -- 130
 num.names$ -- 79
-pop$ -- 977
+pop$ -- 975
 preamble$ -- 1
 purify$ -- 129
 quote$ -- 0
-skip$ -- 908
+skip$ -- 916
 stack$ -- 0
-substring$ -- 615
-swap$ -- 2253
-text.length$ -- 84
+substring$ -- 617
+swap$ -- 2260
+text.length$ -- 82
 text.prefix$ -- 0
 top$ -- 8
 type$ -- 370
 warning$ -- 3
 while$ -- 75
 width$ -- 0
-write$ -- 258
+write$ -- 261
 (There were 3 warnings)
