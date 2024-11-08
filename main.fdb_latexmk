@@ -1,15 +1,15 @@
 # Fdb version 4
-["bibtex main"] 1731012661 "main.aux" "main.bbl" "main" 1731015682 0
-  "./mainNotes.bib" 1731015678 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "./refs.bib" 1730757299 29052 7d675cf10e363e103dcde054372ffd7f ""
+["bibtex main"] 1731046320 "main.aux" "main.bbl" "main" 1731046325 0
+  "./mainNotes.bib" 1731046321 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "./refs.bib" 1731046292 29321 b426f44426a9a496fe4ee5d6f487a59c ""
   "/usr/local/texlive/2023/texmf-dist/bibtex/bst/revtex4-1/apsrev4-1.bst" 1602107945 71515 e333383ed72bf24aa6de7e8cabb55f84 ""
-  "main.aux" 1731015682 9846 6870e4b1c5799c1c3191426f87177dc3 "pdflatex"
+  "main.aux" 1731046325 9952 5b439c188beda0e3a969cf72fed942f8 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1731015677 "/Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/two-cultures/main.tex" "main.pdf" "main" 1731015682 0
-  "/Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/two-cultures/main.tex" 1731015677 35715 e8c67e5f6ac0e7a544ff08fa5e792aa4 ""
+["pdflatex"] 1731046320 "/Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/two-cultures/main.tex" "main.pdf" "main" 1731046325 0
+  "/Users/dk/dev/proj/research_policy/openalex-leiden/two-cultures/two-cultures/main.tex" 1731046311 35038 a044bef66bba964a9d9ee52e77f25f5d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm" 1246382020 996 a18840b13b499c08ac2de96a99eda4bc ""
@@ -206,10 +206,10 @@
   "Fig02f.png" 1727171716 370069 d00342470d749342146db831f17b14cf ""
   "Fig03f.png" 1722275527 718548 58e13a594666cd63584279ff3a0a5dec ""
   "Fig04f.png" 1722275567 806368 4d2d043903335e24c5072674e2ca9528 ""
-  "main.aux" 1731015682 9846 6870e4b1c5799c1c3191426f87177dc3 "pdflatex"
-  "main.bbl" 1731012661 17499 56bf1ccc0d909e23e58ae2bf80eb43f3 "bibtex main"
-  "main.out" 1731015682 1194 9da1b17af0cc90855051c3cfa1945c2e "pdflatex"
-  "main.tex" 1731015677 35715 e8c67e5f6ac0e7a544ff08fa5e792aa4 ""
+  "main.aux" 1731046325 9952 5b439c188beda0e3a969cf72fed942f8 "pdflatex"
+  "main.bbl" 1731046320 17964 be32e256147ac68efd6efd9cd3e2998a "bibtex main"
+  "main.out" 1731046325 1194 9da1b17af0cc90855051c3cfa1945c2e "pdflatex"
+  "main.tex" 1731046311 35038 a044bef66bba964a9d9ee52e77f25f5d ""
   (generated)
   "main.aux"
   "main.log"

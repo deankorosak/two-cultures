@@ -32,27 +32,27 @@
 \begin{document}
 
 \title{Two scholarly publishing cultures? Open access drives a divergence in European academic publishing practices}
-\author{L.~Kopitar \orcidlink{0000-0002-6647-9988}}
+\author{Leon~Kopitar \orcidlink{0000-0002-6647-9988}}
 \affiliation{University of Maribor, Faculty of Health Sciences, Slovenia}
 \affiliation{University of Maribor, Faculty of Electrical Engineering and Computer Science, Slovenia}
 
-\author{N.~Plohl}
+\author{Nejc~Plohl}
 \affiliation{University of Maribor, Faculty of Arts, Slovenia}
 
-\author{M.~Tancer Verboten}
+\author{Mojca~Tancer Verboten}
 \affiliation{University of Maribor, Faculty of Law, Slovenia}
 \affiliation{University of Maribor, Faculty of Chemistry and Chemical Engineering, Slovenia}
 
 
-\author{G.~Štiglic \orcidlink{0000-0002-0183-8679}}
+\author{Gregor~Štiglic \orcidlink{0000-0002-0183-8679}}
 \affiliation{University of Maribor, Faculty of Health Sciences, Slovenia}
 \affiliation{University of Maribor, Faculty of Electrical Engineering and Computer Science, Slovenia}
 \affiliation{University of Edinburgh, Usher Institute, United Kingdom}
 
-\author{R.~Watson \orcidlink{0000-0001-8040-7625}}
+\author{Roger~Watson \orcidlink{0000-0001-8040-7625}}
 \affiliation{Southwest Medical University, China }
 
-\author{D.~Korošak \orcidlink{0000-0003-3818-1233} }
+\author{Dean~Korošak \orcidlink{0000-0003-3818-1233} }
 \thanks{Corresponding author:\\dean.korosak@um.si}
 \affiliation{University of Maribor, Faculty of Medicine, Slovenia}
 \affiliation{University of Maribor, Faculty of Civil Engineering, Transportation Engineering and Architecture, Maribor, Slovenia}
@@ -172,12 +172,7 @@ New open-access publishers, with fast review processes and unlimited publication
 Let $\omega$ be the fraction of researchers with the strategy to cooperate by choosing open-access publication. Consequently, $1 - \omega$ is the fraction adhering to legacy publication, tied to the original defection equilibrium in the Prisoner’s Dilemma. Each researcher’s decision (defect or cooperate) contributes to an aggregate behavior that shapes the observed distribution of $\rho$. To capture the population aspect, we consider the game as a decision choice by a single researcher and an “average researcher” who embodies current publication culture, incentives, policies and which reflects the payoff structure that an individual researcher faces when deciding whether to defect (publish in legacy journals) or cooperate (publish in open access). 
 
 %%%% replicator equation %%%%%
-In the study of cooperation and competition within populations, the replicator equation is a powerful tool to model how strategies spread over time based on their relative success. The replicator equation captures the dynamics of a population divided between two competing strategies—in this case, cooperation (open access publishing) and defection (legacy publishing). Each individual’s choice is influenced by the payoffs associated with these strategies, which reflect the broader academic environment, including policies, pressures, and incentives that affect researchers' publishing behavior.
-
-When applied to a two-strategy system, the replicator equation allows us to explore how the fraction of cooperators, denoted here as $\omega$, changes over time in response to shifting incentives and interactions within the population. The specific dynamics of cooperation and defection in academic publishing can be captured by assuming that the fitness (or payoff) for cooperation is influenced by external factors, such as policy support for open access, represented by a parameter $\lambda$, and by diminishing returns as more researchers adopt cooperation, represented by a parameter $k$. 
-
-Let's use a very simple payoff difference between cooperation and defection $\pi_{\text{cooperate}} - \pi_{\text{defect}} = \lambda - k \omega$,
-where $k > 0$ is a constant capturing the effect of diminishing returns as $\omega$ increases since as more researchers publish in open access, the payoff advantage might decrease due to saturation or competition.
+Here we apply the replicator equation~\cite{taylor1978evolutionary} to describe how cooperation (open access publishing) and defection (legacy publishing) strategies evolve within a population based on their relative payoffs, i.e. how the fraction of cooperators, denoted by $\omega$, shifts over time, shaped by the academic environment, including policies and pressures that influence publishing choices. Let's use a very simple payoff difference between cooperation and defection $\pi_{\text{cooperate}} - \pi_{\text{defect}} = \lambda - k \omega$, where external factors like policy support for open access are represented by a parameter $\lambda$, and $k > 0$ is a constant capturing the effect of diminishing returns as $\omega$ increases since as more researchers publish in open access, the payoff advantage might decrease due to saturation or competition.
 
 Using this payoff difference in a simple replicator dynamic yields the equation for the rate of change in the fraction of researchers choosing cooperation: $\frac{d\omega}{dt} = \omega (1 - \omega)(\lambda - k \omega)$. The equilibria (fixed points) are the three solutions of the steady state $\frac{d\omega}{dt} = 0$. These are: $\omega = 0$, everyone defects (publishes in legacy journals), $\omega = 1$, everyone cooperates (publishes in open access), and $\omega = \frac{\lambda}{k}$, a mixed equilibrium where a fraction of researchers cooperates.
 
